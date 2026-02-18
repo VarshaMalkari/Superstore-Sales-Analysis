@@ -26,7 +26,7 @@ The analysis was performed end-to-end using Python, SQL Server, and Power BI.
 
 ## Dashboard Preview
 ### Main Dashboard
-![Main Dashboard](screenshots/main_dashboard.png)
+![Main Dashboard](screenshots/MainPage.jpg)
 
 ### Insights Page
-![Insights Page](screenshots/insights_page.png)
+![Insights Page](screenshots/InsightsPage.jpg)
